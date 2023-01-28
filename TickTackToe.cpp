@@ -53,7 +53,7 @@ void player_turns()
         case 6: row = 1; column = 2; break;
         case 7: row = 2; column = 0; break;
         case 8: row = 2; column = 1; break;
-        case 9: row = 3; column = 2; break;
+        case 9: row = 2; column = 2; break;
         default:
             cout << "Invalid move!" << endl;
     }
